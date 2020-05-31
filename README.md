@@ -9,10 +9,10 @@ git_clone_lab
 4. Pega el siguiente código en el archivo y completa la información sobre ti
 
   ```yml
-  name: "Your Name"
-  github: "Your github username"
-  email: "Your email"
-  fun_fact: "Random fact about yourself (it doesn't have to be fun if you just aren't a fun person)"
+  nombre: "Tu Nombre"
+  github: "Tu github username"
+  email: "Tu email"
+  fun_fact: "Hecho aleatorio sobre ti (no tiene que ser divertido si no eres una persona divertida)"
   ```
 
 5. Agregar y confirmar estos cambios
