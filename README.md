@@ -19,7 +19,7 @@ git_clone_lab
 
   `git add <filename>`  
   `git commit -m "my new file"`  
-     
+    
 6. Sube estos cambios a github
 
    `git push origin master`
