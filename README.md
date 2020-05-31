@@ -8,17 +8,18 @@ git_clone_lab
 3. Agrega un nuevo archivo dentro de la carpeta "students" * (nombra este archivo your_name.yml) *
 4. Pega el siguiente código en el archivo y completa la información sobre ti
 
-   ```yml
-   nombre: "Tu nombre"
-   github: "Tu nombre de usuario de github"
-   email: "Tu correo electrónico"
-   fun_fact: "Hecho aleatorio sobre ti (no tiene que ser divertido si no eres una persona divertida)"
-   ```
+  ```yml
+  name: "Your Name"
+  github: "Your github username"
+  email: "Your email"
+  fun_fact: "Random fact about yourself (it doesn't have to be fun if you just aren't a fun person)"
+  ```
 
 5. Agregar y confirmar estos cambios
 
    `git add <nombre de archivo>`
-   `git commit -m" mi nuevo archivo "`
+   
+   `git commit -m" mi nuevo archivo "`
    
 6. Sube estos cambios a github
 
