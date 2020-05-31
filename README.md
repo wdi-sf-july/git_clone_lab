@@ -17,10 +17,9 @@ git_clone_lab
 
 5. Agregar y confirmar estos cambios
 
-   `git add <nombre de archivo>`
-   
-   `git commit -m" mi nuevo archivo "`
-   
+  `git add <filename>`  
+  `git commit -m "my new file"`  
+     
 6. Sube estos cambios a github
 
    `git push origin master`
