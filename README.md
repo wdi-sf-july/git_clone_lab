@@ -24,5 +24,5 @@ git_clone_lab
 
    `git push origin master`
 
-7. Envía una solicitud de pull request de tu repositorio de github a este repositorio de GitHub y etiqueta a @luucamay en la descripción del PR.
+7. Envía una solicitud de pull request de tu repositorio de github a este repositorio de GitHub y etiqueta a @luucamay y a @dapino en la descripción del PR.
 8. Espere a que tu pull request sea fusionado (merged).
