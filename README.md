@@ -4,7 +4,7 @@ git_clone_lab
 ### Pasos:
 
 1. Forkea este repositorio
-2. Clona tu copia forkead en tu escritorio
+2. Clona tu copia forkeada en tu escritorio
 3. Agrega un nuevo archivo dentro de la carpeta "students" * (nombra este archivo your_name.yml) *
 4. Pega el siguiente código en el archivo y completa la información sobre ti
 
