@@ -1,0 +1,4 @@
+nombre: Diana Lemus
+github: "Dicaleme"
+email: "ankara124@hotmail.com"
+fun_fact: "Diseño mi propia ropa"
