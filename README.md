@@ -1,28 +1,28 @@
 git_clone_lab
 =============
 
-###Steps:
+### Pasos:
 
-1. Fork this repo
-2. Clone your forked copy to your desktop
-3. Add a new file inside the folder "students" *(name this file your_name.yml)*
-4. Paste the code below into the file, and fill in info about yourself
-  
+1. Forkea este repositorio
+2. Clona tu copia forkeada en tu escritorio
+3. Agrega un nuevo archivo dentro de la carpeta "students" * (nombra este archivo your_name.yml) *
+4. Pega el siguiente código en el archivo y completa la información sobre ti
+
   ```yml
-  name: "Your Name"
-  github: "Your github username"
-  email: "Your email"
-  fun_fact: "Random fact about yourself (it doesn't have to be fun if you just aren't a fun person)"
+  nombre: "Tu Nombre"
+  github: "Tu github username"
+  email: "Tu email"
+  fun_fact: "Hecho aleatorio sobre ti (no tiene que ser divertido si no eres una persona divertida)"
   ```
 
-5. Add and commit these changes
+5. Agregar y confirmar estos cambios
 
   `git add <filename>`  
   `git commit -m "my new file"`  
-  
-6. Push these changes to github
+    
+6. Sube estos cambios a github
 
-  `git push origin master`  
-  
-7. Submit a pull request from your github repo into the GA github repo, and tag @jackieiscool in the PR description
-8. Wait for your pull request to be merged
+   `git push origin master`
+
+7. Envía una solicitud de pull request de tu repositorio de github a este repositorio de GitHub y etiqueta a @luucamay y a @dapino en la descripción del PR.
+8. Espere a que tu pull request sea fusionado (merged).
